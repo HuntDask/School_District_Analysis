@@ -42,4 +42,4 @@ We can take away four main points about our school district analysis and examini
 1. We can depict from our graphs and tables created that Thomas High School took a climb in performance from being low to alot higher than before our updated testing.
 2. Thomas High school after we wer ableto realize how low the 9th grade passing percentagee was was removed, and we can see that we are now in the Medium(1000-2000) range
 3. After conducting a better analysis as far as the averages, we wer able to find hte exact counts of math reading and percentages passing for all 15 schools easily prior to our unedidt distirict summary. We were ableto find through the Charter Type school Thomas High that they were able to reach a 60% overall passing instread of the pervious 90% before, a big change for our district analysis.
-4.the reading and math passing percentages both raised and dropped dramaticcally. Passing raised all the way to 97% and math went to 66%. 
+4. the reading and math passing percentages both raised and dropped dramaticcally. Passing raised all the way to 97% and math went to 66%. 
